@@ -1,6 +1,6 @@
 {
-  "homepage": "https://sfhelmet.github.io/mek",
-  "name": "mek",
+  "homepage": "https://sfhelmet.github.io/Mek",
+  "name": "Mek",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -44,6 +44,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.1.1",
+    "@babel/plugin-proposal-private-property-in-object": "latest"
   }
 }
